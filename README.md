@@ -1,2 +1,11 @@
-# FEUP-RC
-:mortar_board: RC -> MIEIC/L.EIC - FEUP, 2021-2022
+# FEUP-RC-21/22
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**COURSE:** [Computer Networks](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484435) (RC)
+
+**CONTENTS:** 
+- Project developped for the course
+
+**FINAL GRADE:** 17
+
