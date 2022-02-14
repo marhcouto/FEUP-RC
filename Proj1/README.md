@@ -5,8 +5,11 @@ The objective of this practical work was to create an application to transfer fi
 
 ## Usage 
 To compile:
+
 	make
+	
 To get run instructions:
+
 	<executable> -h
 
 
